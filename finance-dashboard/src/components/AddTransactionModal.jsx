@@ -10,7 +10,7 @@ export default function AddTransactionModal() {
   amount: "",
   category: "",
   type: "expense",
-  date: new Date().toISOString().split("T")[0], // default today
+  date: new Date().toISOString().split("T")[0], 
 });
 
   //  Only admin can see button

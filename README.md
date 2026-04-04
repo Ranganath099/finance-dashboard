@@ -181,4 +181,4 @@ This project demonstrates a structured approach to building a frontend applicati
 
 ## Author
 
-** Sri Ranganath Besta**
+Sri Ranganath Besta

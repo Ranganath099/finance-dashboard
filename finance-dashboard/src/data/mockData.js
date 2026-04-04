@@ -5,8 +5,8 @@ export const transactions = [
   { id: 4, date: "2026-04-04", amount: 2000, category: "Freelance", type: "income" },
 
   // NEW DATA (April)
-  { id: 5, date: "2026-04-05", amount: 1500, category: "Shopping", type: "expense" },
-  { id: 6, date: "2026-04-06", amount: 700, category: "Food", type: "expense" },
+  { id: 5, date: "2026-01-05", amount: 15000, category: "Shopping", type: "expense" },
+  { id: 6, date: "2026-01-06", amount: 7000, category: "Food", type: "expense" },
 
   // NEW DATA (March)
   { id: 7, date: "2026-03-15", amount: 4500, category: "Salary", type: "income" },
